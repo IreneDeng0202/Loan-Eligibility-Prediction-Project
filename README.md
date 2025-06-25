@@ -6,18 +6,18 @@ This project develops and evaluates machine learning models to predict loan elig
 - **Source**: Public loan eligibility dataset (or specify source if known)
 - **Size**: ~600 records
 - **Features**:
-- Gender:	Applicant gender
-- Married:	Marital status
-- Dependents:	Number of dependents
-- Education:	Education level
-- Self_Employed:	Self-employment status
-- ApplicantIncome:	Applicant's income
-- CoapplicantIncome:	Coapplicant's income
-- LoanAmount:	Loan amount
-- Loan_Amount_Term:	Loan term (months)
-- Credit_History:	Credit history flag
-- Property_Area:	Urban/Semiurban/Rural
-- Loan_Status	Target: Approved (1) / Not Approved (0)
+Gender:	Applicant gender<br>
+Married:	Marital status<br>
+Dependents:	Number of dependents<br>
+Education:	Education level<br>
+Self_Employed:	Self-employment status<br>
+ApplicantIncome:	Applicant's income<br>
+CoapplicantIncome:	Coapplicant's income<br>
+LoanAmount:	Loan amount<br>
+Loan_Amount_Term:	Loan term (months)<br>
+Credit_History:	Credit history flag<br>
+Property_Area:	Urban/Semiurban/Rural<br>
+Loan_Status	Target: Approved (1) / Not Approved (0)<br>
 
 ---
 # 3.Technologies & Methods
@@ -26,9 +26,9 @@ This project develops and evaluates machine learning models to predict loan elig
 - **Methods**:
 Data cleaning, preprocessing, standardization，<br>
 Pipeline construction to integrate SMOTE, scaling, and modeling, <br>
-- Hyperparameter tuning via GridSearchCV,
-- Model evaluation with confusion matrix, classification report，
-- Feature importance
+Hyperparameter tuning via GridSearchCV,<br>
+Model evaluation with confusion matrix, classification report，<br>
+Feature importance
 
 ---
 # 4.Conclusion
