@@ -18,16 +18,17 @@ Loan_Amount_Term:	Loan term (months)
 Credit_History:	Credit history flag
 Property_Area:	Urban/Semiurban/Rural
 Loan_Status	Target: Approved (1) / Not Approved (0)
+
 ---
 # 3.Technologies & Methods
-Python (pandas, numpy, matplotlib, seaborn, scikit-learn, imbalanced-learn)
-Machine Learning models:Logistic Regression, Random Forest, SVM, KNN 
-Techniques:
-Data cleaning, preprocessing, standardization;
-Pipeline construction to integrate SMOTE, scaling, and modeling, 
-Hyperparameter tuning via GridSearchCV,
-Model evaluation with confusion matrix, classification report
-Feature importance
+- **Python**：pandas, numpy, matplotlib, seaborn, scikit-learn, imbalanced-learn
+- **Machine Learning models**:Logistic Regression, Random Forest, SVM, KNN 
+- **Methods**:
+### Data cleaning, preprocessing, standardization;
+### Pipeline construction to integrate SMOTE, scaling, and modeling, 
+### Hyperparameter tuning via GridSearchCV,
+### Model evaluation with confusion matrix, classification report
+### Feature importance
 
 ---
 # 4.Conclusion
