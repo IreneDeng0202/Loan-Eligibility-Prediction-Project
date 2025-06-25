@@ -24,10 +24,10 @@ This project develops and evaluates machine learning models to predict loan elig
 - **Python**：pandas, numpy, matplotlib, seaborn, scikit-learn, imbalanced-learn
 - **Machine Learning models**:Logistic Regression, Random Forest, SVM, KNN 
 - **Methods**:
-- Data cleaning, preprocessing, standardization;
-- Pipeline construction to integrate SMOTE, scaling, and modeling, 
+Data cleaning, preprocessing, standardization，<br>
+Pipeline construction to integrate SMOTE, scaling, and modeling, <br>
 - Hyperparameter tuning via GridSearchCV,
-- Model evaluation with confusion matrix, classification report
+- Model evaluation with confusion matrix, classification report，
 - Feature importance
 
 ---
